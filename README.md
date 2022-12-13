@@ -1,6 +1,8 @@
 # Awesome GPT-3
 > Awesome GPT-3 is a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
 
+## Ryan's note: This is by far the most impressive collection around real world scenarios for GPT.  The articles here are also useful. Retaining this in my repo for future use. 
+
 ![](screenshot.png)
 ## Demos
 
